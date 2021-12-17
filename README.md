@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam
-- 💻 github @ujras
+- 👾 github @ujras
 - 💬 slack @sarjent
 
 <!---
